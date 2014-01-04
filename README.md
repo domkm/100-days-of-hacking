@@ -12,3 +12,12 @@
   Learned more about CSS architecture (classical, SMACSS, OOCSS).
   * Read [Functional CSS](http://eng.wealthfront.com/2013/08/functional-css-fcss.html)
   * Read [Learn CSS Layout](http://learnlayout.com/)
+* **2014-01-03** - *Day 3*
+  * Read [the concepts section of MDN's CSS reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference#Concepts)  
+  Great, programmer-friendly material.
+  * Read about responsive grid systems like [Neat](http://neat.bourbon.io/) and [Zurb Foundation](http://foundation.zurb.com/docs/components/grid.html)
+  * Read about [Autoprefixer](https://github.com/ai/autoprefixer)
+  * Read about [SASS/SCSS](http://sass-lang.com/), [LESS](http://lesscss.org/), [Stylus](http://learnboost.github.io/stylus/), and [Garden](https://github.com/noprompt/garden)  
+  I have used SCSS extensively but had not previously taken the time to look through the documentation.  
+  Garden looks awesome and makes me wonder why we write CSS with preprocessor DSLs instead of full-fledged programming languages.
+  * Learned of and read a little about the [CSS Object Model](http://dev.w3.org/csswg/cssom/)
