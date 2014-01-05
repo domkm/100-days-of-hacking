@@ -21,3 +21,6 @@
   I have used SCSS extensively but had not previously taken the time to look through the documentation.  
   Garden looks awesome and makes me wonder why we write CSS with preprocessor DSLs instead of full-fledged programming languages.
   * Learned of and read a little about the [CSS Object Model](http://dev.w3.org/csswg/cssom/)
+* **2014-01-04** - *Day 4*
+  * Read [Scalable and Modular Architecture for CSS (SMACCS)](http://smacss.com/) book
+  * Created [an animated 3D cube](https://github.com/DomKM/100-days-of-hacking/tree/9e1ae90696ea9f6a292e82fb63e0c36a6160f59d/garden) using [Garden](https://github.com/noprompt/garden) to generate the CSS
