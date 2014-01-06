@@ -32,3 +32,5 @@
   * Learned of and read the documentation for [Grid Style Sheets](http://gridstylesheets.org/)  
   GSS is a JavaScript implementation of CCSS.
   * Began reading [Implementing Responsive Design](http://www.implementingresponsivedesign.com/)
+* **2014-01-06**  
+  Recruited to be a chauffeur for the day.
