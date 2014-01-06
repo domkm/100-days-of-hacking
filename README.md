@@ -24,3 +24,11 @@
 * **2014-01-04** - *Day 4*
   * Read [Scalable and Modular Architecture for CSS (SMACCS)](http://smacss.com/) book
   * Created [an animated 3D cube](https://github.com/DomKM/100-days-of-hacking/tree/9e1ae90696ea9f6a292e82fb63e0c36a6160f59d/garden) using [Garden](https://github.com/noprompt/garden) to generate the CSS
+* **2014-01-05** - *Day 5*
+  * Perused [Solved by Flexbox](http://philipwalton.github.io/solved-by-flexbox/)
+  * Read [A Complete Guide to Flexbox](http://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+  * Read [Constraint Cascading Style Sheets for the Web](http://citeseer.ist.psu.edu/viewdoc/summary?doi=10.1.1.101.4819) (1999 paper)  
+  This seems so much more intuitive for describing a layout than CSS. Why didn't CCSS catch on?
+  * Learned of and read the documentation for [Grid Style Sheets](http://gridstylesheets.org/)  
+  GSS is a JavaScript implementation of CCSS.
+  * Began reading [Implementing Responsive Design](http://www.implementingresponsivedesign.com/)
