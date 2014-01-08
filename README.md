@@ -34,3 +34,5 @@
   * Began reading [Implementing Responsive Design](http://www.implementingresponsivedesign.com/)
 * **2014-01-06**  
   Recruited to be a chauffeur for the day.
+* **2014-01-07** - *Day 6*
+  * Finished reading [Implementing Responsive Design](http://www.implementingresponsivedesign.com/)
