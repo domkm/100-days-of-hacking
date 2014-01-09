@@ -36,3 +36,6 @@
   Recruited to be a chauffeur for the day.
 * **2014-01-07** - *Day 6*
   * Finished reading [Implementing Responsive Design](http://www.implementingresponsivedesign.com/)
+* **2014-01-08** - *Day 7*
+  * Wrote a [blog post about Garden, CSS Object Model, and Constraint CSS](http://domkm.com/posts/2014-01-08-garden-cssom-ccss/)
+  *  Extensively played with the newly open-sourced [LightTable](https://github.com/LightTable/LightTable)
