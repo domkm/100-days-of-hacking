@@ -39,3 +39,6 @@
 * **2014-01-08** - *Day 7*
   * Wrote a [blog post about Garden, CSS Object Model, and Constraint CSS](http://domkm.com/posts/2014-01-08-garden-cssom-ccss/)
   *  Extensively played with the newly open-sourced [LightTable](https://github.com/LightTable/LightTable)
+* **2014-01-09** - *Day 8*
+  * Began reading the [ECMAScript Language Specification, 5.1 Edition](http://www.ecma-international.org/ecma-262/5.1/)
+  
