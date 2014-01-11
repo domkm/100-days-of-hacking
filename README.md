@@ -41,4 +41,8 @@
   *  Extensively played with the newly open-sourced [LightTable](https://github.com/LightTable/LightTable)
 * **2014-01-09** - *Day 8*
   * Began reading the [ECMAScript Language Specification, 5.1 Edition](http://www.ecma-international.org/ecma-262/5.1/)
+* **2014-01-10** - *Day 9*
+  * Continued reading the [ECMAScript Language Specification, 5.1 Edition](http://www.ecma-international.org/ecma-262/5.1/)  
+  [This](http://www.youtube.com/watch?v=Od6hY_50Dh0).
+
   
