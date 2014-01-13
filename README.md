@@ -48,3 +48,7 @@
   * Read [a](https://developer.mozilla.org/en-US/docs/Web/JavaScript/JavaScript_technologies_overview) [bunch](https://developer.mozilla.org/en-US/docs/DOM/DOM_Reference/Introduction) [of](https://developer.mozilla.org/en-US/docs/Web/Guide/API/DOM/Manipulating_the_browser_history) [MDN](https://developer.mozilla.org/en-US/docs/Web/Guide/API/DOM/Using_dynamic_styling_information) [articles](https://developer.mozilla.org/en-US/docs/Web/Guide/API/DOM/Whitespace_in_the_DOM) [about](https://developer.mozilla.org/en-US/docs/Determining_the_dimensions_of_elements) [JavaScript](https://developer.mozilla.org/en-US/docs/Web/Guide/User_experience/Using_the_Page_Visibility_API)
   * Continued reading the [ECMAScript Language Specification, 5.1 Edition](http://www.ecma-international.org/ecma-262/5.1/)  
   Ahhhhhhhhhhhhhhhh!  
+* **2014-01-12** - *Day 11*
+  * Finished reading the [ECMAScript Language Specification, 5.1 Edition](http://www.ecma-international.org/ecma-262/5.1/)  
+  [This](http://www.youtube.com/watch?v=6vMO3XmNXe4?t=8s).
+  * Read MDN's reference documentation on HTML [elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element) and [attributes](https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes)
