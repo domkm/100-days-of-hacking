@@ -13,7 +13,7 @@
   * Read [Functional CSS](http://eng.wealthfront.com/2013/08/functional-css-fcss.html)
   * Read [Learn CSS Layout](http://learnlayout.com/)
 * **2014-01-03** - *Day 3*
-  * Read [the concepts section of MDN's CSS reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference#Concepts)  
+  * Read [the concepts section of MDN CSS reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference#Concepts)  
   Great, programmer-friendly material.
   * Read about responsive grid systems like [Neat](http://neat.bourbon.io/) and [Zurb Foundation](http://foundation.zurb.com/docs/components/grid.html)
   * Read about [Autoprefixer](https://github.com/ai/autoprefixer)
@@ -51,4 +51,7 @@
 * **2014-01-12** - *Day 11*
   * Finished reading the [ECMAScript Language Specification, 5.1 Edition](http://www.ecma-international.org/ecma-262/5.1/)  
   [This](http://www.youtube.com/watch?v=6vMO3XmNXe4?t=8s).
-  * Read MDN's reference documentation on HTML [elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element) and [attributes](https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes)
+  * Read MDN documentation on HTML [elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element) and [attributes](https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes)
+* **2014-01-13** - *Day 12*
+  * Read a lot of MDN documentation about client-side JavaScript  
+  Highlights: [Window](https://developer.mozilla.org/en-US/docs/Web/API/Window), [Node](https://developer.mozilla.org/en-US/docs/Web/API/Node), [Element](https://developer.mozilla.org/en-US/docs/Web/API/Element), [Document](https://developer.mozilla.org/en-US/docs/Web/API/Document), [Blob](https://developer.mozilla.org/en-US/docs/Web/API/Blob)/[File](https://developer.mozilla.org/en-US/docs/Web/API/File), [WebSocket](https://developer.mozilla.org/en-US/docs/Web/API/WebSocket), [Notification](https://developer.mozilla.org/en-US/docs/Web/API/Notification), and [History](https://developer.mozilla.org/en-US/docs/Web/API/History)
