@@ -55,3 +55,7 @@
 * **2014-01-13** - *Day 12*
   * Read a lot of MDN documentation about client-side JavaScript  
   Highlights: [Window](https://developer.mozilla.org/en-US/docs/Web/API/Window), [Node](https://developer.mozilla.org/en-US/docs/Web/API/Node), [Element](https://developer.mozilla.org/en-US/docs/Web/API/Element), [Document](https://developer.mozilla.org/en-US/docs/Web/API/Document), [Blob](https://developer.mozilla.org/en-US/docs/Web/API/Blob)/[File](https://developer.mozilla.org/en-US/docs/Web/API/File), [WebSocket](https://developer.mozilla.org/en-US/docs/Web/API/WebSocket), [Notification](https://developer.mozilla.org/en-US/docs/Web/API/Notification), and [History](https://developer.mozilla.org/en-US/docs/Web/API/History)
+* **2014-01-14** - *Day 13*
+  * Read a lot about [web workers](https://developer.mozilla.org/en-US/docs/Web/API/Worker)
+  * Used web workers to [parallelize a drinking competition](https://github.com/DomKM/100-days-of-hacking/tree/e2b0c72e00cb4284d62d79d5bb3763e335d5d727/web_workers)
+  
