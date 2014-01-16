@@ -58,4 +58,6 @@
 * **2014-01-14** - *Day 13*
   * Read a lot about [web workers](https://developer.mozilla.org/en-US/docs/Web/API/Worker)
   * Used web workers to [parallelize a drinking competition](https://github.com/DomKM/100-days-of-hacking/tree/e2b0c72e00cb4284d62d79d5bb3763e335d5d727/web_workers)
-  
+* **2014-01-15** - *Day 14*
+  * Completed [this LightTable and ClojureScript tutorial](https://github.com/swannodette/lt-cljs-tutorial)
+  * Read a lot about [Google Closure](https://developers.google.com/closure/) Compiler and Library
