@@ -61,3 +61,10 @@
 * **2014-01-15** - *Day 14*
   * Completed [this LightTable and ClojureScript tutorial](https://github.com/swannodette/lt-cljs-tutorial)
   * Read a lot about [Google Closure](https://developers.google.com/closure/) Compiler and Library
+* **2014-01-16** - *Day 15*
+  * Worked through [this LightTable plugin tutorial](http://blog.jakubarnold.cz/light-table-plugin-tutorial)
+  * Went through the [React tutorial](http://facebook.github.io/react/docs/tutorial.html)  
+  LightTable was incredible for this. Live reload an in-editor browser when the code changes? Yes, please.
+  * Read these articles about React [Components](https://medium.com/react-tutorials/828c397e3dc8) and [Properties](https://medium.com/react-tutorials/ef11cd55caa0)
+
+
