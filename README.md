@@ -66,5 +66,8 @@
   * Went through the [React tutorial](http://facebook.github.io/react/docs/tutorial.html)  
   LightTable was incredible for this. Live reload an in-editor browser when the code changes? Yes, please.
   * Read these articles about React [Components](https://medium.com/react-tutorials/828c397e3dc8) and [Properties](https://medium.com/react-tutorials/ef11cd55caa0)
-
+* **2014-01-17** - *Day 16*
+  * Read more React docs
+  * Continued exploring LightTable  
+  
 
