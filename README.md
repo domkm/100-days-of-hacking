@@ -69,5 +69,7 @@
 * **2014-01-17** - *Day 16*
   * Read more React docs
   * Continued exploring LightTable  
-  
+* **2014-01-18** - *Day 17*
+  * Finished reading the React docs
+  * Read about ClojureScript React wrappers: [Om](https://github.com/swannodette/om), [Sablono](https://github.com/r0man/sablono), [Cloact](https://github.com/holmsand/cloact), and [Pump](https://github.com/piranha/pump)
 
