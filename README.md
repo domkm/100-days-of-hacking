@@ -74,3 +74,5 @@
   * Read about ClojureScript React wrappers: [Om](https://github.com/swannodette/om), [Sablono](https://github.com/r0man/sablono), [Cloact](https://github.com/holmsand/cloact), and [Pump](https://github.com/piranha/pump)
 * **2014-01-19**  
   Ran errands.
+* **2014-01-20** - *Day 18*
+  * Experimented with React
