@@ -76,3 +76,6 @@
   Ran errands.
 * **2014-01-20** - *Day 18*
   * Experimented with React
+* **2014-01-21** - *Day 19*
+  * Created [a tip calculator using React](https://github.com/DomKM/100-days-of-hacking/tree/d1c47028eec22111ab76403d14b25b3edff735c6/react)
+  * Went through [the Om tutorial](https://github.com/swannodette/om/wiki/Tutorial) and documentation 
