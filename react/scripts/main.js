@@ -28,46 +28,39 @@ var TipCalculatorOutput = React.createClass({
     return (
       <div>
         <p>Tip: ${tip}</p>
-        <p>{"Total: $" + cost + (cost != cpp ? ' (per person: $' + cpp + ')' : '')}</p>
+        <p>{"Total: $" + cost + (this.props.people > 1 ? ' (per person: $' + cpp + ')' : '')}</p>
       </div>
     );
   }
 });
 
 var TipCalculator = React.createClass({
-  calculate: function (bill, tax, tip_pct, people) {
-    var tip = bill * tip_pct / 100;
-    var cost = tip + bill + tax;
-    var cost_per_person = cost / people;
-    return {
-      bill: bill,
-      tax: tax,
-      tip_pct: tip_pct,
-      people: people,
-      tip: tip,
-      cost: cost,
-      cost_per_person: cost_per_person
-    }
-  },
   getInitialState: function () {
-    return this.calculate(42, 0, 15, 1);
+    return {bill: 42,
+            tax: 0,
+            tip_pct: 15,
+            people: 1};
   },
   handleChange: function () {
-    var bill = parseFloat(this.refs.input.refs.bill.getDOMNode().value);
-    var tax = parseFloat(this.refs.input.refs.tax.getDOMNode().value);
-    var tip_pct = parseFloat(this.refs.input.refs.tip_pct.getDOMNode().value);
-    var people = parseFloat(this.refs.input.refs.people.getDOMNode().value);
-    this.setState(this.calculate(bill, tax, tip_pct, people));
+    this.setState({
+      bill: parseFloat(this.refs.input.refs.bill.getDOMNode().value),
+      tax: parseFloat(this.refs.input.refs.tax.getDOMNode().value),
+      tip_pct: parseFloat(this.refs.input.refs.tip_pct.getDOMNode().value),
+      people: parseInt(this.refs.input.refs.people.getDOMNode().value)
+    });
   },
   render: function () {
+    var tip = this.state.bill * this.state.tip_pct / 100;
+    var cost = tip + this.state.bill + this.state.tax;
+    var cost_per_person = cost / this.state.people;
     return (
       <div onChange={this.handleChange}>
         <TipCalculatorInput ref="input" bill={this.state.bill} tax={this.state.tax} tip_pct={this.state.tip_pct} people={this.state.people}/>
-        <TipCalculatorOutput tip={this.state.tip} cost={this.state.cost} cost_per_person={this.state.cost_per_person}/>
+        <TipCalculatorOutput tip={tip} cost={cost} cost_per_person={cost_per_person} people={this.state.people}/>
       </div>
     );
   }
-})
+});
 
 React.renderComponent(
   <TipCalculator />,
