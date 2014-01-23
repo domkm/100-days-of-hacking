@@ -80,6 +80,6 @@
   * Created [a tip calculator using React](https://github.com/DomKM/100-days-of-hacking/tree/d1c47028eec22111ab76403d14b25b3edff735c6/react)
   * Went through [the Om tutorial](https://github.com/swannodette/om/wiki/Tutorial) and documentation
 * **2014-01-22** - *Day 20*
-  * Refactored [my tip calculator](https://github.com/DomKM/100-days-of-hacking/tree/5cd5fb8abbb31350752bcba48d8f6f0d4135c9b9/react) based on @petehunt's feedback
+  * Refactored [my tip calculator](https://github.com/DomKM/100-days-of-hacking/tree/5cd5fb8abbb31350752bcba48d8f6f0d4135c9b9/react) based on [@petehunt](https://github.com/petehunt)'s feedback
   * Read the [Om](https://github.com/swannodette/om) sourcecode and (newly updated) documentation and played with the examples
-  * Watched @brandonbloom's ["Why Clojure?" talk](http://axialcorps.com/2014/01/20/video-why-clojure/)
+  * Watched [@brandonbloom](https://github.com/brandonbloom)'s ["Why Clojure?" talk](http://axialcorps.com/2014/01/20/video-why-clojure/)
