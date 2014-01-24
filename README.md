@@ -83,3 +83,6 @@
   * Refactored [my tip calculator](https://github.com/DomKM/100-days-of-hacking/tree/5cd5fb8abbb31350752bcba48d8f6f0d4135c9b9/react) based on [@petehunt](https://github.com/petehunt)'s feedback
   * Read the [Om](https://github.com/swannodette/om) sourcecode and (newly updated) documentation and played with the examples
   * Watched [@brandonbloom](https://github.com/brandonbloom)'s ["Why Clojure?" talk](http://axialcorps.com/2014/01/20/video-why-clojure/)
+* **2014-01-23** - *Day 21*
+  * Submitted a proposal for [Clojure/West](http://www.clojurewest.org/)
+  * Began reading [Structure and Interpretation of Computer Programs (SICP)](http://mitpress.mit.edu/sicp/)
