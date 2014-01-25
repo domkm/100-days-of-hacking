@@ -86,3 +86,7 @@
 * **2014-01-23** - *Day 21*
   * Submitted a proposal for [Clojure/West](http://www.clojurewest.org/)
   * Began reading [Structure and Interpretation of Computer Programs (SICP)](http://mitpress.mit.edu/sicp/)
+* **2014-01-24** - *Day 22*
+  * Went through [this tutorial](https://github.com/swannodette/enlive-tutorial) on [Enlive](https://github.com/cgrand/enlive)
+  * Browsed the [Modern ClojureScript](https://github.com/magomimmo/modern-cljs) tutorials
+  * Continued reading SICP
