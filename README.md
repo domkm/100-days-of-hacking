@@ -90,3 +90,5 @@
   * Went through [this tutorial](https://github.com/swannodette/enlive-tutorial) on [Enlive](https://github.com/cgrand/enlive)
   * Browsed the [Modern ClojureScript](https://github.com/magomimmo/modern-cljs) tutorials
   * Continued reading SICP
+* **2014-01-25** - *Day 23*
+  * Worked on a LightTable plugin
