@@ -95,4 +95,8 @@
 * **2014-01-26** - *Day 24*
   * Played with [C2](https://github.com/lynaghk/c2)
   * Continued reading SICP
+* **2014-01-27** - *Day 25*
+  * Played with clojure.test, [Midje](https://github.com/marick/Midje), and [Speclj](https://github.com/slagyr/speclj)
+  * Continued reading SICP
+  * Grappled with problems developing a LightTable plugin
   
