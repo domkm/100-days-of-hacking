@@ -99,4 +99,6 @@
   * Played with clojure.test, [Midje](https://github.com/marick/Midje), and [Speclj](https://github.com/slagyr/speclj)
   * Continued reading SICP
   * Grappled with problems developing a LightTable plugin
+* **2014-01-28** - *Day 26*
+  * Worked on a LightTable plugin
   
