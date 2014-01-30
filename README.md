@@ -101,4 +101,9 @@
   * Grappled with problems developing a LightTable plugin
 * **2014-01-28** - *Day 26*
   * Worked on a LightTable plugin
-  
+* **2014-01-29** - *Day 27*
+  * Read this [awesome annotated Clojure code](https://gist.github.com/ftrain/8655399)
+  * Watched [this video about generative testing in Clojure](https://www.youtube.com/watch?v=u0TkAw8QqrQ) using [simple-check](https://github.com/reiddraper/simple-check)
+  * Watched [this presentation about simulation testing in Clojure](http://www.infoq.com/presentations/Simulation-Testing) using [Simulant](https://github.com/Datomic/simulant)
+  * [Annotated the default LightTable theme](https://gist.github.com/DomKM/8701252)  
+  Hopefully it will help other people who are trying to customize or create a LightTable theme.
