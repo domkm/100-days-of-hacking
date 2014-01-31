@@ -107,3 +107,6 @@
   * Watched [this presentation about simulation testing in Clojure](http://www.infoq.com/presentations/Simulation-Testing) using [Simulant](https://github.com/Datomic/simulant)
   * [Annotated the default LightTable theme](https://gist.github.com/DomKM/8701252)  
   Hopefully it will help other people who are trying to customize or create a LightTable theme.
+* **2014-01-30** - *Day 28*
+  * Played with [simple-check](https://github.com/reiddraper/simple-check) and read [some](http://blog.8thlight.com/connor-mendenhall/2013/10/31/check-your-work.html) [articles](http://reiddraper.com/writing-simple-check/) about it
+  * Watched [this presentation](http://www.infoq.com/presentations/Clojure-Generative-Testing) about [test.generative](https://github.com/clojure/test.generative)
