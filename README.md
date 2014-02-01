@@ -110,3 +110,8 @@
 * **2014-01-30** - *Day 28*
   * Played with [simple-check](https://github.com/reiddraper/simple-check) and read [some](http://blog.8thlight.com/connor-mendenhall/2013/10/31/check-your-work.html) [articles](http://reiddraper.com/writing-simple-check/) about it
   * Watched [this presentation](http://www.infoq.com/presentations/Clojure-Generative-Testing) about [test.generative](https://github.com/clojure/test.generative)
+* **2014-01-31** - *Day 29*
+  * Read [core.typed](https://github.com/clojure/core.typed) wiki's [Design](https://github.com/clojure/core.typed/wiki#wiki-design), [User Guide](https://github.com/clojure/core.typed/wiki/User-Guide), and [Types](https://github.com/clojure/core.typed/wiki/Types) docs
+  * Read/watched [this article/video](http://logaan.github.io/clojure/core.typed/2013/08/29/first-look-at-core.typed.html) about getting started with core.typed
+  * Watched [this presentation](http://www.youtube.com/watch?v=wNhK8t3uLJU) about core.typed
+  * Played with core.typed
