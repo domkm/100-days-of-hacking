@@ -115,3 +115,9 @@
   * Read/watched [this article/video](http://logaan.github.io/clojure/core.typed/2013/08/29/first-look-at-core.typed.html) about getting started with core.typed
   * Watched [this presentation](http://www.youtube.com/watch?v=wNhK8t3uLJU) about core.typed
   * Played with core.typed
+* **2014-02-01** - *Day 30*
+  * Watched [this workshop](http://www.youtube.com/watch?v=VZWjLNwJHX0) about core.typed
+  * Watched [this presentation](http://www.youtube.com/watch?v=o_jtwIs2Ot8) about [Schema](https://github.com/prismatic/schema)
+  * Played with Schema
+  
+  
