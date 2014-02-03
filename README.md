@@ -119,5 +119,5 @@
   * Watched [this workshop](http://www.youtube.com/watch?v=VZWjLNwJHX0) about core.typed
   * Watched [this presentation](http://www.youtube.com/watch?v=o_jtwIs2Ot8) about [Schema](https://github.com/prismatic/schema)
   * Played with Schema
-  
-  
+* **2014-02-02**  
+  Took the day off. I needed some rest.
