@@ -121,3 +121,8 @@
   * Played with Schema
 * **2014-02-02**  
   Took the day off. I needed some rest.
+* **2014-02-03** - *Day 31*
+  * Played with Clojure linters: [Kibit](https://github.com/jonase/kibit), [Eastwood](https://github.com/jonase/eastwood), and [Dynalint](https://github.com/frenchy64/dynalint)
+  * Watched [@halgari](https://github.com/halgari)'s video about [core.async channel internals](http://www.youtube.com/watch?v=WSgg-TQLsdw)  
+  I previously watched his videos about go macro internals ([1](http://www.youtube.com/watch?v=R3PZMIwXN_g) [2](http://www.youtube.com/watch?v=SI7qtuuahhU)). They were excellent but I need to watch them again and refresh my memory.
+  * Continued reading SICP
