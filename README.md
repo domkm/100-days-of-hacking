@@ -126,3 +126,8 @@
   * Watched [@halgari](https://github.com/halgari)'s video about [core.async channel internals](http://www.youtube.com/watch?v=WSgg-TQLsdw)  
   I previously watched his videos about go macro internals ([1](http://www.youtube.com/watch?v=R3PZMIwXN_g) [2](http://www.youtube.com/watch?v=SI7qtuuahhU)). They were excellent but I need to watch them again and refresh my memory.
   * Continued reading SICP
+* **2014-02-04** - *Day 32*
+  * Watched [this presentation]http://www.infoq.com/presentations/core-async-clojure) about core.async
+  * Read [Communicating Sequential Processes](http://www.cs.virginia.edu/crab/hoare1978csp.pdf) (1978)  
+  This paper is the basis for Go's concurrency primitives and Clojure's core.async.
+  * Played with core.async
