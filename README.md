@@ -131,3 +131,7 @@
   * Read [Communicating Sequential Processes](http://www.cs.virginia.edu/crab/hoare1978csp.pdf) (1978)  
   This paper is the basis for Go's concurrency primitives and Clojure's core.async.
   * Played with core.async
+* **2014-02-05** - *Day 33*
+  * Watched [this presentation](http://www.youtube.com/watch?v=irjP8BO1B8Y) about [core.logic](https://github.com/clojure/core.logic)
+  * Worked through [this tutorial](https://github.com/swannodette/logic-tutorial) on core.logic and read through some of the wiki documentation
+  * Played with core.logic
