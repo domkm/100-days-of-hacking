@@ -135,3 +135,9 @@
   * Watched [this presentation](http://www.youtube.com/watch?v=irjP8BO1B8Y) about [core.logic](https://github.com/clojure/core.logic)
   * Worked through [this tutorial](https://github.com/swannodette/logic-tutorial) on core.logic and read through some of the wiki documentation
   * Played with core.logic
+* **2014-02-06** - *Day 34*
+  * Watched [this presentation](http://www.youtube.com/watch?v=ShEez0JkOFw) about Clojure (and woodworking?)
+  * Watched [this presentation](http://www.youtube.com/watch?v=fHK-uS-Iedc) about [miniKanren](http://minikanren.org/)
+  * Watched [this presentation](http://www.youtube.com/watch?v=A7de6pC-tnU) about how core.logic, the Clojure implementation of miniKanren, works
+  * Read about [Clara](https://github.com/rbrush/clara-rules)
+  * Worked through a few chapters of [Learn Datalog Today](http://www.learndatalogtoday.org/)
