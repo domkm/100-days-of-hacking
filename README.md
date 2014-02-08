@@ -141,3 +141,8 @@
   * Watched [this presentation](http://www.youtube.com/watch?v=A7de6pC-tnU) about how core.logic, the Clojure implementation of miniKanren, works
   * Read about [Clara](https://github.com/rbrush/clara-rules)
   * Worked through a few chapters of [Learn Datalog Today](http://www.learndatalogtoday.org/)
+* **2014-02-07** - *Day 35*
+  * Finished working through Learn Datalog Today
+  * Read about [the architecture of Datomic](http://www.infoq.com/articles/Architecture-Datomic)
+  * Watched the [Datomic tutorial screencasts](http://www.youtube.com/user/datomicvideo)
+  * Went through the [Datomic tutorial](http://docs.datomic.com/tutorial.html) and the corresponding [Day of Datomic sample](https://github.com/Datomic/day-of-datomic/blob/343a58395d3e973927d70b141cb495c9df851e06/samples/seattle/getting-started.clj)
