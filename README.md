@@ -146,3 +146,8 @@
   * Read about [the architecture of Datomic](http://www.infoq.com/articles/Architecture-Datomic)
   * Watched the [Datomic tutorial screencasts](http://www.youtube.com/user/datomicvideo)
   * Went through the [Datomic tutorial](http://docs.datomic.com/tutorial.html) and the corresponding [Day of Datomic sample](https://github.com/Datomic/day-of-datomic/blob/343a58395d3e973927d70b141cb495c9df851e06/samples/seattle/getting-started.clj)
+* **2014-02-08** - *Day 36*
+ * Watched [this presentation](http://vimeo.com/79432448) about how Datomic was built
+ * Watched/worked through [this screencast/tutorial](https://www.youtube.com/watch?v=ao7xEwCjrWQ) on Datomic
+ * Worked on a library  
+ Setting up a Clojure/ClojureScript library with [cljx](https://github.com/lynaghk/cljx), [cljsbuild](https://github.com/emezeske/lein-cljsbuild), and test support for both Clojure and ClojureScript is surprisingly complicated.
