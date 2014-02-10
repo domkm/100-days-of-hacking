@@ -151,3 +151,5 @@
  * Watched/worked through [this screencast/tutorial](https://www.youtube.com/watch?v=ao7xEwCjrWQ) on Datomic
  * Worked on a library  
  Setting up a Clojure/ClojureScript library with [cljx](https://github.com/lynaghk/cljx), [cljsbuild](https://github.com/emezeske/lein-cljsbuild), and test support for both Clojure and ClojureScript is surprisingly complicated.
+* **2014-02-09**  
+ Took a break and ran some errands. Exciting!
