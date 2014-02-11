@@ -153,3 +153,7 @@
  Setting up a Clojure/ClojureScript library with [cljx](https://github.com/lynaghk/cljx), [cljsbuild](https://github.com/emezeske/lein-cljsbuild), and test support for both Clojure and ClojureScript is surprisingly complicated.
 * **2014-02-09**  
  Took a break and ran some errands. Exciting!
+* **2014-02-10** - *Day 37*
+  * Watched [this presentation](http://www.youtube.com/watch?v=qqNevHwH47w) about [Ring](https://github.com/ring-clojure/ring)
+  * Read the Ring spec and some of the documentation
+  * Read about and played with [Compojure](https://github.com/weavejester/compojure)
