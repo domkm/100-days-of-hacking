@@ -157,3 +157,6 @@
   * Watched [this presentation](http://www.youtube.com/watch?v=qqNevHwH47w) about [Ring](https://github.com/ring-clojure/ring)
   * Read the Ring spec and some of the documentation
   * Read about and played with [Compojure](https://github.com/weavejester/compojure)
+* **2014-02-11** - *Day 38*
+  * Read about [nREPL](https://github.com/clojure/tools.nrepl), [Piggieback](https://github.com/cemerick/piggieback), and [Austin](https://github.com/cemerick/austin)
+  * Watched [this presentation](http://www.youtube.com/watch?v=OEZZOz6__CY) about [Liberator](https://github.com/clojure-liberator/liberator) and read some of the documentation
