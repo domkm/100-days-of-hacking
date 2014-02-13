@@ -160,3 +160,6 @@
 * **2014-02-11** - *Day 38*
   * Read about [nREPL](https://github.com/clojure/tools.nrepl), [Piggieback](https://github.com/cemerick/piggieback), and [Austin](https://github.com/cemerick/austin)
   * Watched [this presentation](http://www.youtube.com/watch?v=OEZZOz6__CY) about [Liberator](https://github.com/clojure-liberator/liberator) and read some of the documentation
+* **2014-02-12** - *Day 39*
+  * Implemented a [basic word pronounceability algorithm](https://github.com/DomKM/wug/blob/bc45d96f68ec5295f7742205cf2222b2229aa902/src/domkm/wug/markov.clj)
+  * Watched [this presentation](http://www.youtube.com/watch?v=o75g9ZRoLaw) about macros
