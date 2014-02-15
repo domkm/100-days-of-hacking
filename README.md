@@ -165,3 +165,9 @@
   * Watched [this presentation](http://www.youtube.com/watch?v=o75g9ZRoLaw) about macros
 * **2014-02-13** - *Day 40*
   * Continued working on [wug](https://github.com/DomKM/wug)
+* **2014-02-14** - *Day 41*
+  * Began writing a WHOIS library in Clojure
+  * Realized that WHOIS is remarkably convoluted  
+   Keeping track of all public WHOIS servers and writing parsers for their non-uniform responses is not something I want to deal with now or maintain in the future.
+   * Realized that the [best open-source WHOIS library](http://ruby-whois.org/) is written in Ruby and compatible with JRuby 
+  * Began researching how to use JRuby from Clojure
