@@ -171,3 +171,5 @@
    Keeping track of all public WHOIS servers and writing parsers for their non-uniform responses is not something I want to deal with now or maintain in the future.
    * Realized that the [best open-source WHOIS library](http://ruby-whois.org/) is written in Ruby and compatible with JRuby 
   * Began researching how to use JRuby from Clojure
+* **2014-02-15**  
+  Took a break to spend time with my family.
