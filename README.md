@@ -173,3 +173,6 @@
   * Began researching how to use JRuby from Clojure
 * **2014-02-15**  
   Took a break to spend time with my family.
+* **2014-02-16** - *Day 42*
+  * Worked on the [WHOIS library](https://github.com/DomKM/whois.clj)  
+  Using JRuby from Clojure is easier than I anticipated but getting it set up was difficult due to my inexperience with the JVM. I also still don't know how to package a Ruby gem with a Clojure library.
