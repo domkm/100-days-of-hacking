@@ -176,3 +176,7 @@
 * **2014-02-16** - *Day 42*
   * Worked on the [WHOIS library](https://github.com/DomKM/whois.clj)  
   Using JRuby from Clojure is easier than I anticipated but getting it set up was difficult due to my inexperience with the JVM. I also still don't know how to package a Ruby gem with a Clojure library.
+* **2014-02-17** - *Day 43*
+  * Spent way too much time figuring out how to include a gem within a Leiningen project.
+  * Pushed the [WHOIS library to Clojars](https://clojars.org/com.domkm/whois)  
+    This was my first deployment to Clojars. Other than the gem dependency issues it was surprisingly easy.
