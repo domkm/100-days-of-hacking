@@ -180,3 +180,6 @@
   * Spent way too much time figuring out how to include a gem within a Leiningen project.
   * Pushed the [WHOIS library to Clojars](https://clojars.org/com.domkm/whois)  
     This was my first deployment to Clojars. Other than the gem dependency issues it was surprisingly easy.
+* **2014-02-18** - *Day 44*
+  * Began reading the [JVM Specification](http://docs.oracle.com/javase/specs/jvms/se7/html/)
+  * Worked on [some improvements for Zweikopf](https://github.com/ifesdjeen/zweikopf/pull/14)
