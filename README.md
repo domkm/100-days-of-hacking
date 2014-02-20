@@ -183,3 +183,8 @@
 * **2014-02-18** - *Day 44*
   * Began reading the [JVM Specification](http://docs.oracle.com/javase/specs/jvms/se7/html/)
   * Worked on [some improvements for Zweikopf](https://github.com/ifesdjeen/zweikopf/pull/14)
+* **2014-02-19** - *Day 45*
+  * Began reading through the [Pedestal](https://github.com/pedestal/pedestal) documentation  
+    Based on the [recent announcement](https://groups.google.com/forum/#!topic/pedestal-users/jODwmJUIUcg) and the current disarray of the documentation, I'm going to temporarily put learning Pedestal on hold.
+  * Began reading the documentation of and playing with [Caribou](http://let-caribou.in/)
+  
