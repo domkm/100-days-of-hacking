@@ -187,4 +187,6 @@
   * Began reading through the [Pedestal](https://github.com/pedestal/pedestal) documentation  
     Based on the [recent announcement](https://groups.google.com/forum/#!topic/pedestal-users/jODwmJUIUcg) and the current disarray of the documentation, I'm going to temporarily put learning Pedestal on hold.
   * Began reading the documentation of and playing with [Caribou](http://let-caribou.in/)
+* **2014-02-20** - *Day 46*
+  * Continued learning about Caribou
   
