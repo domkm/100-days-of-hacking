@@ -189,4 +189,9 @@
   * Began reading the documentation of and playing with [Caribou](http://let-caribou.in/)
 * **2014-02-20** - *Day 46*
   * Continued learning about Caribou
+* **2014-02-21** - *Day 47*
+  * Worked through the [Caribou tutorial](http://caribou.github.io/caribou/docs/tutorial.html) and played with Caribou a bit more
+  * Watched [this presentation](http://www.infoq.com/presentations/Graph-Clojure-Prismatic) about [Graph](https://github.com/Prismatic/plumbing)
+  * Did some general reading about [Lamina](https://github.com/ztellman/lamina), [EEP](https://github.com/clojurewerkz/eep), and [Node.js streams](http://nodejs.org/api/stream.html)
+  
   
