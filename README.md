@@ -193,5 +193,6 @@
   * Worked through the [Caribou tutorial](http://caribou.github.io/caribou/docs/tutorial.html) and played with Caribou a bit more
   * Watched [this presentation](http://www.infoq.com/presentations/Graph-Clojure-Prismatic) about [Graph](https://github.com/Prismatic/plumbing)
   * Did some general reading about [Lamina](https://github.com/ztellman/lamina), [EEP](https://github.com/clojurewerkz/eep), and [Node.js streams](http://nodejs.org/api/stream.html)
-  
-  
+* **2014-02-22** - *Day 48*
+  * Released version 0.0.1 of [my WHOIS library](https://github.com/DomKM/whois.clj)
+  * Worked on [Wug](https://github.com/DomKM/wug)
