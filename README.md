@@ -196,3 +196,5 @@
 * **2014-02-22** - *Day 48*
   * Released version 0.0.1 of [my WHOIS library](https://github.com/DomKM/whois.clj)
   * Worked on [Wug](https://github.com/DomKM/wug)
+* **2014-02-23** - *Day 49*
+  * Worked on [Wug](https://github.com/DomKM/wug)
