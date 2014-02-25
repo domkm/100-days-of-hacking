@@ -198,3 +198,5 @@
   * Worked on [Wug](https://github.com/DomKM/wug)
 * **2014-02-23** - *Day 49*
   * Worked on [Wug](https://github.com/DomKM/wug)
+* **2014-02-24**  
+  Took [Lily](http://lilyj.me/) out for her birthday.
