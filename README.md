@@ -200,3 +200,6 @@
   * Worked on [Wug](https://github.com/DomKM/wug)
 * **2014-02-24**  
   Took [Lily](http://lilyj.me/) out for her birthday.
+* **2014-02-25** - *Day 50*
+  * Played with [Hoplon](http://hoplon.io/) and [Boot](https://github.com/tailrecursion/boot)  
+    Hoplon is intriguing but I'm concerned that the developers seem overly willing to reinvent existing tools and introduce (seemingly) unnecessary concepts and restrictions.
