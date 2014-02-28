@@ -206,3 +206,5 @@
 * **2014-02-26** - *Day 51*
   * Learned about Atomic Design [1](http://vimeo.com/67476280) [2](http://bradfrostweb.com/blog/post/atomic-web-design/) [3](http://coding.smashingmagazine.com/2013/08/02/other-interface-atomic-design-sass/) [4](http://coding.smashingmagazine.com/2013/10/21/challenging-css-best-practices-atomic-approach/)
   * Worked on [Wug](https://github.com/DomKM/wug)
+* **2014-02-27** - *Day 52*
+  * Worked on [Wug](https://github.com/DomKM/wug)
