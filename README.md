@@ -208,3 +208,5 @@
   * Worked on [Wug](https://github.com/DomKM/wug)
 * **2014-02-27** - *Day 52*
   * Worked on [Wug](https://github.com/DomKM/wug)
+* **2014-02-28** - *Day 53*
+  * Played with SQL libraries: [Korma](https://github.com/korma/Korma), [Lobos](https://github.com/budu/lobos), and [Ragtime](https://github.com/weavejester/ragtime)
