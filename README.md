@@ -212,3 +212,5 @@
   * Played with SQL libraries: [Korma](https://github.com/korma/Korma), [Lobos](https://github.com/budu/lobos), and [Ragtime](https://github.com/weavejester/ragtime)
 * **2014-03-01** - *Day 54*
   * Worked on a project
+* **2014-03-02** - *Day 55*
+  * Worked on a project
