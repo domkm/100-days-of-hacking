@@ -214,3 +214,5 @@
   * Worked on a project
 * **2014-03-02** - *Day 55*
   * Worked on a project
+* **2014-03-03**  
+  Took the day off.
