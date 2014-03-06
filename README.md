@@ -219,3 +219,6 @@
 * **2014-03-04** - *Day 56*
   * Worked on a project
   * Used [Iota](https://github.com/thebusby/iota) to process an 8.7GB (266,169,420 lines) file
+* **2014-03-05** - *Day 57*
+  * Worked on a project
+  * Did some reading about web sockets and server-sent events
