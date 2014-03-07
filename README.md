@@ -222,3 +222,7 @@
 * **2014-03-05** - *Day 57*
   * Worked on a project
   * Did some reading about web sockets and server-sent events
+* **2014-03-06** - *Day 58*
+  * Read about [Stuart Sierra's Reloaded Workflow](http://thinkrelevance.com/blog/2013/06/04/clojure-workflow-reloaded) ([Leiningen template](https://github.com/stuartsierra/reloaded))
+  * Watched [this presentation](http://www.infoq.com/presentations/Clojure-Large-scale-patterns-techniques)
+  * Looked at [Component](https://github.com/stuartsierra/component) and related libraries
