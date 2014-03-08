@@ -226,3 +226,5 @@
   * Read about [Stuart Sierra's Reloaded Workflow](http://thinkrelevance.com/blog/2013/06/04/clojure-workflow-reloaded) ([Leiningen template](https://github.com/stuartsierra/reloaded))
   * Watched [this presentation](http://www.infoq.com/presentations/Clojure-Large-scale-patterns-techniques)
   * Looked at [Component](https://github.com/stuartsierra/component) and related libraries
+* **2014-03-07**  
+  Dealt with errands and obligations.
