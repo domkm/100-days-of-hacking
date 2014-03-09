@@ -228,3 +228,5 @@
   * Looked at [Component](https://github.com/stuartsierra/component) and related libraries
 * **2014-03-07**  
   Dealt with errands and obligations.
+* **2014-03-08** - *Day 59*
+  * Worked on a project
