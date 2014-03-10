@@ -230,3 +230,5 @@
   Dealt with errands and obligations.
 * **2014-03-08** - *Day 59*
   * Worked on a project
+* **2014-03-09** - *Day 60*
+  * Worked on a project
