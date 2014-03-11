@@ -232,3 +232,6 @@
   * Worked on a project
 * **2014-03-09** - *Day 60*
   * Worked on a project
+* **2014-03-10** - *Day 61*
+  * Worked on a project  
+    ClojureScript exceptions make Clojure exceptions look good.
