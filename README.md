@@ -237,3 +237,5 @@
     ClojureScript exceptions make Clojure exceptions look good.
 * **2014-03-11**  
   Taxes :(
+* **2014-03-12** - *Day 62*
+  * Worked on a project
