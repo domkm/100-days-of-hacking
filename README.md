@@ -239,3 +239,6 @@
   Taxes :(
 * **2014-03-12** - *Day 62*
   * Worked on a project
+* **2014-03-13** - *Day 63*
+  * Worked on a project  
+    [Om](https://github.com/swannodette/om) has changed significantly since the last time I used it. I'm working through the updated tutorials.
