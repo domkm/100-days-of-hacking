@@ -241,4 +241,6 @@
   * Worked on a project
 * **2014-03-13** - *Day 63*
   * Worked on a project  
-    [Om](https://github.com/swannodette/om) has changed significantly since the last time I used it. I'm working through the updated tutorials.
+    [Om](https://github.com/swannodette/om) has changed significantly since I last used it. I'm working through the updated tutorials.
+* **2014-03-14**  
+  Dealt with familial obligations.
