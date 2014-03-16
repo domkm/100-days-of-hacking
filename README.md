@@ -244,3 +244,7 @@
     [Om](https://github.com/swannodette/om) has changed significantly since I last used it. I'm working through the updated tutorials.
 * **2014-03-14**  
   Dealt with familial obligations.
+* **2014-03-15** - *Day 64*
+  * Finished working through the Om tutorials
+  * Perused [Omchaya](https://github.com/sgrove/omchaya)
+  * Worked on a project
