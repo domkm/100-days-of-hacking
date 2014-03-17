@@ -248,3 +248,5 @@
   * Finished working through the Om tutorials
   * Perused [Omchaya](https://github.com/sgrove/omchaya)
   * Worked on a project
+* **2014-03-16** - *Day 65*
+  * Worked on a project
