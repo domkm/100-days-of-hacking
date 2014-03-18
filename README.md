@@ -250,3 +250,6 @@
   * Worked on a project
 * **2014-03-16** - *Day 65*
   * Worked on a project
+* **2014-03-17** - *Day 66*
+  * Worked on a project  
+    [Sente](https://github.com/ptaoussanis/sente) is awesome!
