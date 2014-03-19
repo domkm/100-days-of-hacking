@@ -253,3 +253,6 @@
 * **2014-03-17** - *Day 66*
   * Worked on a project  
     [Sente](https://github.com/ptaoussanis/sente) is awesome!
+* **2014-03-18** - *Day 67*
+  * Worked on a project  
+    Cleanly organizing shared code (Clojure and ClojureScript) with namespaces that do not support circular dependencies is not ~~simple~~ easy.
