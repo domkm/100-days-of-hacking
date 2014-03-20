@@ -256,3 +256,5 @@
 * **2014-03-18** - *Day 67*
   * Worked on a project  
     Cleanly organizing shared code (Clojure and ClojureScript) with namespaces that do not support circular dependencies is not ~~simple~~ easy.
+* **2014-03-19** - *Day 68*
+  * Worked on a project  
