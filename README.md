@@ -258,3 +258,6 @@
     Cleanly organizing shared code (Clojure and ClojureScript) with namespaces that do not support circular dependencies is not ~~simple~~ easy.
 * **2014-03-19** - *Day 68*
   * Worked on a project  
+* **2014-03-20** - *Day 69*
+  * Worked on a project  
+    [Optimus](https://github.com/magnars/optimus) and [lein-bower](https://github.com/chlorinejs/lein-bower) complement each-other very well.
