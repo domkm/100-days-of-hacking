@@ -261,3 +261,5 @@
 * **2014-03-20** - *Day 69*
   * Worked on a project  
     [Optimus](https://github.com/magnars/optimus) and [lein-bower](https://github.com/chlorinejs/lein-bower) complement each-other very well.
+* **2014-03-21** - *Day 70*
+  * Worked on a project  
