@@ -263,3 +263,6 @@
     [Optimus](https://github.com/magnars/optimus) and [lein-bower](https://github.com/chlorinejs/lein-bower) complement each-other very well.
 * **2014-03-21** - *Day 70*
   * Worked on a project  
+* **2014-03-22** - *Day 70.5*  
+  Spent half of the day doing family stuff.
+  * Worked on a project
