@@ -266,3 +266,5 @@
 * **2014-03-22** - *Day 70.5*  
   Spent half of the day doing family stuff.
   * Worked on a project
+* **2014-03-23**  
+  Traveled to San Francisco for [Clojure/West](http://www.clojurewest.org/)!
