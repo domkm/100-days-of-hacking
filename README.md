@@ -268,3 +268,5 @@
   * Worked on a project
 * **2014-03-23**  
   Traveled to San Francisco for [Clojure/West](http://www.clojurewest.org/)!
+* **2014-03-24**  
+  Attended Clojure/West. Go watch [this talk](https://www.youtube.com/watch?v=DMtwq3QtddY).
