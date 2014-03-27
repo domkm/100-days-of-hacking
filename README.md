@@ -272,3 +272,5 @@
   Attended Clojure/West. Go watch [this talk](https://www.youtube.com/watch?v=DMtwq3QtddY).
 * **2014-03-25**  
   Attended Clojure/West. Met many brilliant and inspirational people. 
+* **2014-03-26**  
+  Attended Clojure/West Hackfest. Worked on [a chat app](https://github.com/jalehman/om-sente-chat) using [Om](https://github.com/swannodette/om) and [Sente](https://github.com/ptaoussanis/sente).
