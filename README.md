@@ -274,3 +274,7 @@
   Attended Clojure/West. Met many brilliant and inspirational people. 
 * **2014-03-26**  
   Attended Clojure/West Hackfest. Worked on [a chat app](https://github.com/jalehman/om-sente-chat) using [Om](https://github.com/swannodette/om) and [Sente](https://github.com/ptaoussanis/sente).
+* **2014-03-27** - *Day 71*  
+  Spent half of the day doing family stuff.
+  * Worked on a project
+  * Experimented with [LevelDB](https://code.google.com/p/leveldb/) using [Factual's library](https://github.com/Factual/clj-leveldb)
