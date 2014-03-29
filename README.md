@@ -278,3 +278,6 @@
   Spent half of the day doing family stuff.
   * Worked on a project
   * Experimented with [LevelDB](https://code.google.com/p/leveldb/) using [Factual's library](https://github.com/Factual/clj-leveldb)
+* **2014-03-28** - *Day 72*
+  * Worked on a project  
+    LevelDB is significantly lower-level than any other database that I've previously used.
