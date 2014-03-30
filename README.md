@@ -281,5 +281,5 @@
 * **2014-03-28** - *Day 72*
   * Worked on a project  
     LevelDB is significantly lower-level than any other database that I've previously used.
-* **2014-03-29**
+* **2014-03-29**  
   Apartment hunting in San Francisco.
