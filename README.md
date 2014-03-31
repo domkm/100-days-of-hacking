@@ -283,3 +283,6 @@
     LevelDB is significantly lower-level than any other database that I've previously used.
 * **2014-03-29**  
   Apartment hunting in San Francisco.
+* **2014-03-30** - *Day 73*  
+  * Worked on a project  
+    Getting fatal SIGSEGV errors is not fun. 
