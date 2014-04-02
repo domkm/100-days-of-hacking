@@ -286,5 +286,5 @@
 * **2014-03-30** - *Day 73*  
   * Worked on a project  
     Getting fatal SIGSEGV errors is not fun. 
-* **2014-03-31**  
+* **2014-03-31 - 2014-04-01**  
   Attended a leadership training course.
