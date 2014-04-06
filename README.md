@@ -288,3 +288,5 @@
     Getting fatal SIGSEGV errors is not fun. 
 * **2014-03-31 - 2014-04-04**  
   Attended a leadership training course.
+* **2014-04-05**  
+  Caught up on neglected obligations that piled up over the past week.
