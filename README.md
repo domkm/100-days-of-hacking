@@ -290,3 +290,6 @@
   Attended a leadership training course.
 * **2014-04-05**  
   Caught up on neglected obligations that piled up over the past week.
+* **2014-04-06** - *Day 74*
+  * Worked on a project
+  * Used [Monger](https://github.com/michaelklishin/monger) and [clj-ftp](https://github.com/miner/clj-ftp)
