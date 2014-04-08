@@ -293,3 +293,5 @@
 * **2014-04-06** - *Day 74*
   * Worked on a project
   * Used [Monger](https://github.com/michaelklishin/monger) and [clj-ftp](https://github.com/miner/clj-ftp)
+* **2014-04-07**  
+  Recruited to be a chauffeur for the day.
