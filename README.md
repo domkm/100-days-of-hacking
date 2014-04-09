@@ -295,3 +295,6 @@
   * Used [Monger](https://github.com/michaelklishin/monger) and [clj-ftp](https://github.com/miner/clj-ftp)
 * **2014-04-07**  
   Recruited to be a chauffeur for the day.
+* **2014-04-08** - *Day 75*
+  * Worked on a project  
+    A day of very enjoyable though very difficult (by my standards) [Hammock Driven Development](https://www.youtube.com/watch?v=f84n5oFoZBc)
