@@ -298,3 +298,5 @@
 * **2014-04-08** - *Day 75*
   * Worked on a project  
     A day of very enjoyable though very difficult (by my standards) [Hammock Driven Development](https://www.youtube.com/watch?v=f84n5oFoZBc)
+* **2014-04-09**  
+  Finished up my taxes.
