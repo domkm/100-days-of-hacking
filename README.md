@@ -303,3 +303,8 @@
 * **2014-04-10** - *Day 76*
   * Worked on a project  
     Learned a lot about [Bloom filters](http://en.wikipedia.org/wiki/Bloom_filter), Java serialization, and [Component](https://github.com/stuartsierra/component).
+* **2014-04-11 - 2014-05-04**  
+  * Moved to San Francisco
+  * Shopped at Ikea three times
+  * Acquired a bed, washer, dryer, sofa, rug, chair, dining set, two nightstands, two desks, four lamps, and other junk
+  * Volunteered at ClojureBridge SF
