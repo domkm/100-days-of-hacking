@@ -308,3 +308,6 @@
   * Shopped at Ikea three times
   * Acquired a bed, washer, dryer, sofa, rug, chair, dining set, two nightstands, two desks, four lamps, and other junk
   * Volunteered at ClojureBridge SF
+* **2014-05-05** - *Day 77*
+  * Worked on a project  
+    Damn it's good to be back to coding.
