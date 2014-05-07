@@ -311,3 +311,5 @@
 * **2014-05-05** - *Day 77*
   * Worked on a project  
     Damn it's good to be back to coding.
+* **2014-05-06**  
+  ...and I'm sick. :(
