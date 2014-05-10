@@ -311,5 +311,8 @@
 * **2014-05-05** - *Day 77*
   * Worked on a project  
     Damn it's good to be back to coding.
-* **2014-05-06**  
+* **2014-05-06 - 2014-05-08**  
   ...and I'm sick. :(
+* **2014-05-09** - *Day 78*
+  * Worked on a project
+  * Worked on a Sass plugin for [Optimus](https://github.com/magnars/optimus)
