@@ -316,3 +316,5 @@
 * **2014-05-09** - *Day 78*
   * Worked on a project
   * Worked on a Sass plugin for [Optimus](https://github.com/magnars/optimus)
+* **2014-05-10** - *Day 79*
+  * Worked on and released [optimus-sass](https://github.com/DomKM/optimus-sass)
