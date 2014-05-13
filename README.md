@@ -320,3 +320,5 @@
   * Worked on and released [optimus-sass](https://github.com/DomKM/optimus-sass)
 * **2014-05-11**  
   Mother's Day
+* **2014-05-12** - *Day 80*
+  * Worked on a project
