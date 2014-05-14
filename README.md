@@ -322,3 +322,5 @@
   Mother's Day
 * **2014-05-12** - *Day 80*
   * Worked on a project
+* **2014-05-13**  
+  Doctor and errands.
