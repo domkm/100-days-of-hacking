@@ -324,3 +324,5 @@
   * Worked on a project
 * **2014-05-13**  
   Doctor and errands.
+* **2014-05-14** - *Day 81*
+  * Worked on a project
