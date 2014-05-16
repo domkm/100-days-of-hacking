@@ -326,3 +326,6 @@
   Doctor and errands.
 * **2014-05-14** - *Day 81*
   * Worked on a project
+* **2014-05-15** - *Day 82*
+  * Worked on a project  
+    Spent some hammock time thinking about how to do mirrored server/client rendering and routing of [Om](https://github.com/swannodette/om) components with the Nashorn JavaScript engine, [Sente](https://github.com/ptaoussanis/sente), and [Secretary](https://github.com/gf3/secretary).
