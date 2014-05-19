@@ -333,3 +333,6 @@
   Haircut, groceries, and errands.
 * **2014-05-17** - *Day 83*
   * Worked on a proof of concept project
+* **2014-05-18** - *Day 84*
+  * Worked on a proof of concept project  
+    I would kill for a decent Clojure[Script] debugger.
