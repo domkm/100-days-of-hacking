@@ -336,3 +336,6 @@
 * **2014-05-18** - *Day 84*
   * Worked on a proof of concept project  
     I would kill for a decent Clojure[Script] debugger.
+* **2014-05-19** - *Day 85*
+  * Worked on a proof of concept project  
+    Seriously, I want a damn debugger.
