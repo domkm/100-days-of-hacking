@@ -339,3 +339,6 @@
 * **2014-05-19** - *Day 85*
   * Worked on a proof of concept project  
     Seriously, I want a damn debugger.
+* **2014-05-20** - *Day 86*
+  * Worked on a proof of concept project  
+    Source maps rock but exceptions from within macros are super annoying. I'm looking at you, [om.core/check](https://github.com/swannodette/om/blob/e29da499da2cea06716fc242e8851bf3d50a902d/src/om/core.clj#L17-24).
