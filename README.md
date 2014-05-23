@@ -345,3 +345,5 @@
 * **2014-05-21** - *Day 87*
   * Worked on a proof of concept project  
     Made some real progress today.
+* **2014-05-22**  
+  Took care of some old business (and went to a taco party).
