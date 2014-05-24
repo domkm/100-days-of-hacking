@@ -347,3 +347,8 @@
     Made some real progress today.
 * **2014-05-22**  
   Took care of some old business (and went to a taco party).
+* **2014-05-23** - *Day 88*
+  * Read about routing with [Pedestal](https://github.com/pedestal/docs/blob/master/documentation/service-routing.md) and [Bidi](https://github.com/juxt/bidi)
+  * Watched some of [Tim Baldridge's videos on core.async](https://tbaldridge.pivotshare.com/)
+  * Read some blog posts about "Isomorphic JavaScript"
+  * Worked on a blog post
