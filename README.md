@@ -352,3 +352,5 @@
   * Watched some of [Tim Baldridge's videos on core.async](https://tbaldridge.pivotshare.com/)
   * Read some blog posts about "Isomorphic JavaScript"
   * Worked on a blog post
+* **2014-05-24**  
+  Took a break and explored the [Presidio](http://en.wikipedia.org/wiki/Presidio_of_San_Francisco).
