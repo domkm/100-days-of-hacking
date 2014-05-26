@@ -354,3 +354,5 @@
   * Worked on a blog post
 * **2014-05-24**  
   Took a break and explored the [Presidio](http://en.wikipedia.org/wiki/Presidio_of_San_Francisco).
+* **2014-05-25**  
+  Felt a bit under the weather.
