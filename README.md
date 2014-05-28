@@ -358,3 +358,6 @@
   Felt a bit under the weather.
 * **2014-05-26**  
   Sick. :(
+* **2014-05-27** - *Day 89*
+  * Worked on a proof of concept project
+  * Worked on a blog post
