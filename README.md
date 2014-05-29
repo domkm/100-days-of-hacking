@@ -361,3 +361,5 @@
 * **2014-05-27** - *Day 89*
   * Worked on a proof of concept project
   * Worked on a blog post
+* **2014-05-28**  
+  Doctor, groceries, and errands.
