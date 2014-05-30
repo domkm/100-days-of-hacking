@@ -363,3 +363,7 @@
   * Worked on a blog post
 * **2014-05-28**  
   Doctor, groceries, and errands.
+* **2014-05-29** - *Day 90*
+  * Worked on a proof of concept project  
+    Saying the documentation of Google's [Closure Library](https://developers.google.com/closure/library/) is sparse would be an understatement.
+  * Worked on a blog post
