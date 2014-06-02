@@ -371,3 +371,5 @@
   * Worked on a proof of concept project
 * **2014-05-31**  
  Had a great pairing session with [Nelson Morris](http://nelsonmorris.net/2014/04/07/saturday-remote-pairing.html) but took the rest of the day off.
+* **2014-06-01**  
+  Off day.
