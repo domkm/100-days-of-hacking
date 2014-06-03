@@ -373,3 +373,6 @@
  Had a great pairing session with [Nelson Morris](http://nelsonmorris.net/2014/04/07/saturday-remote-pairing.html) but took the rest of the day off.
 * **2014-06-01**  
   Off day.
+* **2014-06-02** - *Day 92*
+  * Worked on a proof of concept project  
+    Every time I think I'm done with it I see a way to make it better.
