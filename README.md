@@ -376,3 +376,6 @@
 * **2014-06-02** - *Day 92*
   * Worked on a proof of concept project  
     Every time I think I'm done with it I see a way to make it better.
+* **2014-06-03** - *Day 93*
+  * Worked on a proof of concept project  
+    New architecture is complete. I'm now debugging without a debugger. :/
