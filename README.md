@@ -379,3 +379,6 @@
 * **2014-06-03** - *Day 93*
   * Worked on a proof of concept project  
     New architecture is complete. I'm now debugging without a debugger. :/
+* **2014-06-04** - *Day 94*
+  * Worked on a proof of concept project  
+    It's essentially done...for now.
