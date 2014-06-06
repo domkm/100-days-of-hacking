@@ -382,3 +382,5 @@
 * **2014-06-04** - *Day 94*
   * Worked on a proof of concept project  
     It's essentially done...for now.
+* **2014-06-05**  
+  Ran errands and went to a Clojure meetup.
