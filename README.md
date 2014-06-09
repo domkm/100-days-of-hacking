@@ -387,3 +387,5 @@
 * **2014-06-06** - *Day 95*
   * Worked on a proof of concept project  
     *Now* it is essentially done.
+* **2014-06-07** - **2014-06-08**  
+  Took the weekend off.
