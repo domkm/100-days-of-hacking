@@ -389,3 +389,5 @@
     *Now* it is essentially done.
 * **2014-06-07** - **2014-06-08**  
   Took the weekend off.
+* **2014-06-09** - *Day 96*
+  * Worked on a blog post
