@@ -391,3 +391,7 @@
   Took the weekend off.
 * **2014-06-09** - *Day 96*
   * Worked on a blog post
+* **2014-06-10** - *Day 96.5*  
+  Recruited to be a chauffeur for half of the day.
+  * Worked on a blog post
+  * Went to a Clojure meetup and discussed the [proof of concept project](https://github.com/domkm/omelette)
