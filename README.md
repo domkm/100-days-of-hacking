@@ -395,3 +395,6 @@
   Recruited to be a chauffeur for half of the day.
   * Worked on a blog post
   * Went to a Clojure meetup and discussed the [proof of concept project](https://github.com/domkm/omelette)
+* **2014-06-11** - *Day 97.5*  
+  * Worked on a blog post
+  * Refactored the proof of concept project
