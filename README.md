@@ -402,3 +402,5 @@
   Attended to responsibilities and family stuff for half of the day.
   * Worked on a blog post
   * Refactored the proof of concept project
+* **2014-06-13** - *Day 99*
+  * Worked on a blog post
