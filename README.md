@@ -404,3 +404,5 @@
   * Refactored the proof of concept project
 * **2014-06-13** - *Day 99*
   * Worked on a blog post
+* **2014-06-14**  
+  Groceries and relaxation.
