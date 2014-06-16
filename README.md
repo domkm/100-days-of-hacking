@@ -406,3 +406,6 @@
   * Worked on a blog post
 * **2014-06-14**  
   Groceries and relaxation.
+* **2014-06-15** - *Day 100*
+  * Finished writing and published [this blog post about Isomorphic Clojure[Script]](http://domkm.com/posts/2014-06-15-isomorphic-clojure-1/)
+  * Finished 100 Days of Hacking!
